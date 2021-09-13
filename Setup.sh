@@ -7,7 +7,7 @@ git config --global user.name "$Name"
 git config --global user.email "$Email"
 git init
 git add .	
-git remove GitSetup.sh
+#git remove GitSetup.sh
 git commit -m "Comment"
 git branch -M $Branch
 git remote add origin $Link
