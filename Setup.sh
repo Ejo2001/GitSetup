@@ -1,4 +1,4 @@
-read "Link?" $Link
+read "Link?" Link
 git init
 git add .
 git commit -m "Comment"
