@@ -1,5 +1,5 @@
-read "Link?" Link
-read "Token?" Token
+read -p "Link?" Link
+read -p "Token?" Token
 git init
 git add .
 git commit -m "Comment"
